@@ -18,3 +18,8 @@ Every close bracket has a corresponding open bracket of the same type.
 0 if x is equal to 0.
 You are given an integer array nums. Let product be the product of all values in the array nums.
 Return signFunc(product).
+
+**Running Sum of 1d Array**
+>Given an array nums. We define a running sum of an array as runningSum[i] = sum(nums[0]…nums[i]).
+Return the running sum of nums.
+
